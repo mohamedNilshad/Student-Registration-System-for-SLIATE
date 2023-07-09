@@ -1,0 +1,59 @@
+					*********************************************
+					**                COURSES                  **
+					**             REGISTRATION                **
+					*********************************************
+					*********************************************
+					********        COURSE DETAILS       ********
+					*********************************************
+					*   Course Name     - HNDIT                 *
+					*   Course Duration - 2 Years and 6 Months  *
+					*   Course Type     - FREE                  *
+
+					*********************************************
+					********      PERSONAL DETAILS       ********
+					*********************************************
+					*   Name            - Moahamed Nilshad
+					*   NIC NUMBER      - 123456789v
+					*   Date Of Birth   - 25-3-2000
+					*   Gender          - m
+					*   Phone Number    - 0123456780
+					*   Email           - nilshad@gmail.com
+					*   Address         - 123/4
+
+					*********************************************
+					********  EDUCATIONAL DETAILS [O/L]  ********
+					*********************************************
+					*  Subject					Result			 Year
+					*  _______					______			______
+
+					*  Buddhism                                   	  A            		 2016
+					*  (Roman)Catholicism (RC)                    	  A            		 2016
+					*  Islam                                      	  A            		 2016
+					*  History                                    	  A            		 2016
+					*  Science                                    	  A            		 2016
+					*  Mathematics                                	  A            		 2016
+					*  Commerce                                   	  A            		 2016
+					*  Geography                                  	  A            		 2016
+					*  Civic Education                            	  A            		 2016
+					*********************************************
+					********  EDUCATIONAL DETAILS [A/L]  ********
+					*********************************************
+
+					*   medium - Tamil         
+					*   stream - Technology      
+					*   Year   - 2019
+
+					*   Subjects			      Result
+					*   --------			      ------
+
+					*   Genral English                  	A            
+					*   Engineering Technology          	A            
+					*   Science for Technology          	A            
+					*   Information & Communication     	A            
+					*   Genral Knowladge 			50
+					*   Z Score          			1.5
+
+					******************************************************************************************
+					******************************************************************************************
+					******************************************************************************************
+
